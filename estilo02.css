@@ -3,9 +3,20 @@
     width: 100px;
     height: 100px;
     margin: 10px;
+    color: white;
     background-color: coral;
     position: absolute;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.quadrado0 {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background-color: green;
 }
 .quadrado2{
     left: 0px;
